@@ -10,8 +10,8 @@ This repository contains selected artifacts completed in CS-350 Emerging Systems
 
 **Files included:**
 
-- `Thermostat.py`
-- `Thermostat_State_Machine.pdf`
+- Embedded_Thermostat_System/Thermostat.py
+- Embedded_Thermostat_System/CS350 Final Project Thermostat Diagram - Justin Carlo Florida.pdf
 
 The thermostat project uses a Raspberry Pi, temperature sensor, LCD, buttons, and LEDs to demonstrate how hardware and software work together in an embedded system. The program reads temperature data, displays information, and responds to user input to control the thermostat behavior. The state-machine diagram shows the system’s states and how it responds to inputs.
 
